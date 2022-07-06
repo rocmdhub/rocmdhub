@@ -1,4 +1,4 @@
-## Hi, I am Michael and I am a programmer!
+## Hi, I am Michael and I am a programmer and an indie game developer.
 <div align="center">
   <a href="https://github.com/rocmdhub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rocmdhub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
