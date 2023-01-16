@@ -29,6 +29,8 @@
  > I will leave the source code of many small projects for you to get some cool things out of I will make, the code of `tutorial videos` I will make on YouTube and many other things for you to check out and build something with them. Feel free to use everything as long as you credit me.
   
   ### Current Projects
+  -`My programming language`
+  > I don't know what I'll do with it outside of my own projects.
   
-  -`My Unnamed Game` 
-  >It has many stuff I will share here on `GitHub`.
+  -`My Game Engine` 
+  >It will be available with its source code in the full release.
