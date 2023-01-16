@@ -1,8 +1,8 @@
 ## rocmdhub
 <div align="center">
   <a href="https://github.com/rocmdhub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rocmdhub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocmdhub&layout=compact&langs_count=7&theme=dark"/> 
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rocmdhub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rocmdhub&layout=compact&langs_count=7&theme=dark"/> 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="C-" height="30" width="27" src="https://cdn.discordapp.com/attachments/853634409420292146/1001558329048436766/C-.png">
