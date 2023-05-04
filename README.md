@@ -4,8 +4,7 @@
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rocmdhub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rocmdhub&layout=compact&langs_count=7&theme=dark"/> 
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="C-" height="30" width="27" src="https://cdn.discordapp.com/attachments/853634409420292146/1001558329048436766/C-.png">
+<div fstyle="display: inline_block"><br>
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/853634409420292146/994194209571610674/821C65E2-A9B8-45DC-8B3A-8B526DD3DC68.png?width=676&height=676"> 
   <img align="center" alt="C++" height="30" width="27" src="https://cdn.discordapp.com/attachments/853634409420292146/994190259795525632/IMG_0291.png">
