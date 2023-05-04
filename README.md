@@ -29,4 +29,6 @@
   
   ### Current Projects
   -`A Unity Survival Game`
-  > I am currently working on a game with 3 of my friends. I am the programmer in the project, I work in the shaders and every piece of code in the project, I also am part of the design of almost everything.
+  > I am currently working on a game with 3 of my friends. I am the programmer in the project, I work in the shaders and every piece of code in the project, I also am part of the design of almost everything, making sometimes some sketches in blender so my friends can get an idea of what to make.
+  
+
