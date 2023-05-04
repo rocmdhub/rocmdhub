@@ -28,8 +28,5 @@
  > I will leave the source code of many small projects for you to get some cool things out of I will make, the code of `tutorial videos` I will make on YouTube and many other things for you to check out and build something with them. Feel free to use everything as long as you credit me.
   
   ### Current Projects
-  -`My programming language`
-  > I don't know what I'll do with it outside of my own projects.
-  
-  -`My Game Engine` 
-  >It will be available with its source code in the full release.
+  -`A Unity Survival Game`
+  > I am currently working on a game with 3 of my friends. I am the programmer in the project, I work in the shaders and every piece of code in the project, I also am part of the design of almost everything.
