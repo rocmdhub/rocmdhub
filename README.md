@@ -10,7 +10,7 @@
   <img align="center" alt="C++" height="30" width="27" src="https://cdn.discordapp.com/attachments/853634409420292146/994190259795525632/IMG_0291.png">
   <img align="center" alt="Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Julia" height="30" width="33" src="https://cdn.discordapp.com/attachments/853002482547687475/1112064015670190230/julia-logo-DC9698BAF9-seeklogo.com.png">
-  <img align="center" alt="LLVM" height="30" width="30" src="https://cdn.discordapp.com/attachments/853002482547687475/1112064805809959002/DragonMedium.png">
+  <img align="center" alt="LLVM" height="40" width="40" src="https://cdn.discordapp.com/attachments/853002482547687475/1112064805809959002/DragonMedium.png">
 </div>
   
   ##
