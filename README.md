@@ -22,8 +22,8 @@
  
  
   ## Github Stats ✏️
-<div align="center">
+<div align="left">
   <a href="https://github.com/rocmdhub">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rocmdhub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rocmdhub&layout=compact&langs_count=7&theme=dark"/> 
+  <img allign = "left" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rocmdhub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img allign = "right" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rocmdhub&layout=compact&langs_count=7&theme=dark"/> 
 </div>
