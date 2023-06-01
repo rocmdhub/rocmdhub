@@ -27,14 +27,3 @@
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rocmdhub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rocmdhub&layout=compact&langs_count=7&theme=dark"/> 
 </div>
-  
- 
-  ## **What Projects Are Available Here?**
-<div align="left">
-
- > I will leave the source code of many small projects for you to get some cool things out of I will make, the code of `tutorial videos` I will make on YouTube and many other things for you to check out and build something with them. Feel free to use everything as long as you credit me.
-  
-  ## Current Projects
-  -`A Unity Survival Game`
-  > I am currently working on a game with 3 of my friends. I am the programmer in the project, I work in the shaders and every piece of code in the project, I also am part of the design of almost everything, making sometimes some sketches in blender for ideas on the 3D models. 
-</div>
