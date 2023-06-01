@@ -1,5 +1,4 @@
 ### rocmd
->Terrible programmer
 
 
  ## 💻
