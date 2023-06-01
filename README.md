@@ -1,4 +1,5 @@
-### rocmdhub
+### rocmd
+>Terrible programmer
 
 
  ## 💻
