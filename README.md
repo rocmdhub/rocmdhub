@@ -24,6 +24,7 @@
   ## 📊
 <div align="left">
   <a href="https://github.com/rocmdhub">
-  <img allign = "left" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rocmdhub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img allign = "left" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rocmdhub&layout=compact&langs_count=7&theme=dark"/> 
+![](https://github-readme-stats.vercel.app/api?username=BecasPinto&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rocmdhub&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rocmhub&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
