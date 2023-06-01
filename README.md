@@ -1,6 +1,6 @@
 ### rocmdhub
 <div align="center">
- ##Tech Stack 💻
+ Tech Stack 💻
 </div>
 <div fstyle="display: inline_block"><br>
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -11,7 +11,7 @@
   <img align="center" alt="LLVM" height="40" width="40" src="https://cdn.discordapp.com/attachments/853002482547687475/1112064805809959002/DragonMedium.png">
 </div>
  <div align="center">
-  ##Socials 🌍
+  Socials 🌍
  </div>
 <div> 
   <a href="https://youtube.com/channel/UCizgrgXhNRMJYvBAVWGLSJg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -20,7 +20,7 @@
   <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
  <div align="center">
-  ##Github Stats ✏️
+  Github Stats ✏️
  </div>
 <div align="center">
   <a href="https://github.com/rocmdhub">
