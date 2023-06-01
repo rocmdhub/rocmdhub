@@ -1,5 +1,5 @@
 ### rocmdhub
-<div>
+<div align="center">
  ##Tech Stack 💻
 </div>
 <div fstyle="display: inline_block"><br>
@@ -10,7 +10,7 @@
   <img align="center" alt="Julia" height="30" width="33" src="https://cdn.discordapp.com/attachments/853002482547687475/1112064015670190230/julia-logo-DC9698BAF9-seeklogo.com.png">
   <img align="center" alt="LLVM" height="40" width="40" src="https://cdn.discordapp.com/attachments/853002482547687475/1112064805809959002/DragonMedium.png">
 </div>
- <div>
+ <div align="center">
   ##Socials 🌍
  </div>
 <div> 
@@ -19,7 +19,7 @@
  <a href="https://discord.gg/staBFKPqHV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
- <div>
+ <div align="center">
   ##Github Stats ✏️
  </div>
 <div align="center">
@@ -30,7 +30,7 @@
   
  
   ## **What Projects Are Available Here?**
-<div>
+<div align="left">
 
  > I will leave the source code of many small projects for you to get some cool things out of I will make, the code of `tutorial videos` I will make on YouTube and many other things for you to check out and build something with them. Feel free to use everything as long as you credit me.
   
