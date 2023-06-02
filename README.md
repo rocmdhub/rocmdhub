@@ -5,11 +5,11 @@
 <div fstyle="display: inline_block"><br>
   <a href="https://github.com/dotnet" target="_blank"><img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <a href="http://github.com/rocmdhub" target="_blank"><img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/853634409420292146/994194209571610674/821C65E2-A9B8-45DC-8B3A-8B526DD3DC68.png?width=676&height=676"> 
-  <img align="center" alt="C++" height="30" width="27" src="https://cdn.discordapp.com/attachments/853634409420292146/994190259795525632/IMG_0291.png">
+  <a href="" target="_blank"><img align="center" alt="C++" height="30" width="27" src="https://cdn.discordapp.com/attachments/853634409420292146/994190259795525632/IMG_0291.png">
   <a href="https://github.com/python/cpython" target="_blank"><img align="center" alt="Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <a href="https://github.com/JuliaLang/julia" target="_blank"><img align="center" alt="Julia" height="30" width="33" src="https://cdn.discordapp.com/attachments/853002482547687475/1112064015670190230/julia-logo-DC9698BAF9-seeklogo.com.png">
   <a href="https://github.com/llvm/llvm-project" target="_blank"><img align="center" alt="LLVM" height="40" width="40" src="https://cdn.discordapp.com/attachments/853002482547687475/1112064805809959002/DragonMedium.png">
-  <img align="center" alt="HTML" height="30" width="30" src="https://cdn.discordapp.com/attachments/853002482547687475/1114260936878989373/1532556.png">
+  <a href="" target="_blank"><img align="center" alt="HTML" height="30" width="30" src="https://cdn.discordapp.com/attachments/853002482547687475/1114260936878989373/1532556.png">
 </div>
  
 
