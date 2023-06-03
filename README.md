@@ -30,7 +30,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rocmdhub&theme=dark&hide_border=false)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=rocmdhub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocmdhub)](https://github.com/anuraghazra/github-readme-stats)ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocmdhub)](https://github.com/anuraghazra/github-readme-stats)
   
  
 </div>
