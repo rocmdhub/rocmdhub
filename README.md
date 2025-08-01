@@ -9,6 +9,7 @@
   <a href="" target="_blank"><img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <a href="https://github.com/python/cpython" target="_blank"><img align="center" alt="Py" height="43" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <a href="" target="_blank"><img align="center" alt="Java" height="43" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <a href="" target="_blank"><img align="center" alt="Pascal" height="43" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pascal/pascal-original.svg">
 </div>
  
  
