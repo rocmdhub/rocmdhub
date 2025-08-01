@@ -7,8 +7,8 @@
   <a href="https://android.com"> <img align="center" alt="Android" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
   <a href="https://github.com/dotnet" target="_blank"><img align="center" alt="C#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <a href="" target="_blank"><img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <a href="https://github.com/python/cpython" target="_blank"><img align="center" alt="Py" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a href="" target="_blank"><img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <a href="https://github.com/python/cpython" target="_blank"><img align="center" alt="Py" height="43" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <a href="" target="_blank"><img align="center" alt="Java" height="43" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
  
  
