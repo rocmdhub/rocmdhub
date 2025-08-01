@@ -3,6 +3,8 @@
 
  ## 💻
 <div fstyle="display: inline_block"><br>
+  <a href="https://windows.com"> <img align="left" alt="Windows" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+  <a href="https://android.com"> <img align="left" alt="Windows" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
   <a href="https://github.com/dotnet" target="_blank"><img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <a href="" target="_blank"><img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <a href="https://github.com/python/cpython" target="_blank"><img align="center" alt="Py" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
